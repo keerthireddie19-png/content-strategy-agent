@@ -1,0 +1,34 @@
+{
+  "step": 1,
+  "brand": {
+    "name": "FitBite",
+    "niche": "Healthy Snacks",
+    "tone": [
+      "Fun & Casual",
+      "Inspirational"
+    ]
+  },
+  "target_audience": {
+    "age_group": "22-35",
+    "location": "Hyderabad, India",
+    "interests": [
+      "fitness",
+      "healthy eating",
+      "quick recipes"
+    ],
+    "pain_points": [
+      "no time to cook",
+      "junk food temptation",
+      "budget tight"
+    ],
+    "platforms": [
+      "Instagram",
+      "YouTube"
+    ]
+  },
+  "content_goals": [
+    "Brand Awareness",
+    "Follower Growth",
+    "Drive Sales"
+  ]
+}
